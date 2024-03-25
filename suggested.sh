@@ -14,6 +14,7 @@
   gcc-12-multilib parcimonie xloadimage scdaemon glibc-doc git bzr libgd-tools
   libstdc++-12-doc make-doc ed diffutils-doc pinentry-doc
 
+sudo apt install libgdbm-compat-dev
 
 doxygen-latex doxygen-doc doxygen-gui fontforge fonts-roboto libavalon-framework-java
   libcommons-logging-java-doc libexcalibur-logkit-java liblog4j1.2-java libcurl4-doc libidn-dev
