@@ -22,6 +22,9 @@ doxygen-latex doxygen-doc doxygen-gui fontforge fonts-roboto libavalon-framework
   icc-profiles texlive-latex-extra-doc texlive-science texlive-latex-recommended-doc
   texlive-luatex texlive-pstricks dot2tex prerex texlive-pictures-doc vprerex tipa-doc
 
+sudo apt-get install make build-essential libssl-dev zlib1g-dev \
+libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \
+libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
 
 build-essential
 cmake
