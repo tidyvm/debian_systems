@@ -1,0 +1,9 @@
+set bash as default shell
+allow all user to use sudo
+force all user to use root password for users
+install openssh-server
+apt update/upgrade
+install glances
+install ufw
+install ovs
+setup ovs bridge networking
