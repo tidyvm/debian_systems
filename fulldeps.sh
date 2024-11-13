@@ -1,3 +1,8 @@
+  libjs-es5-shim mkdocs-doc nodejs coffeescript node-less node-uglify python-livereload-doc
+  python3-django python3-flask python3-slimmer python-lunr-doc python-markdown-doc
+  python-pyinotify-doc
+
+
 sudo apt-get install lshw
 sudo apt install net-tools
 apt-get install bridge-utils
