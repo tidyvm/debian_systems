@@ -1,3 +1,95 @@
+binutils-doc blt-demo cpp-doc gcc-12-locales cpp-12-doc g++-multilib g++-12-multilib gcc-12-doc gcc-multilib make autoconf automake
+  libtool flex bison gdb gcc-doc gcc-12-multilib glances-doc python3-pynvml apache2 | lighttpd | httpd libboost-doc libboost1.74-doc
+  libboost-atomic1.74-dev libboost-chrono1.74-dev libboost-container1.74-dev libboost-context1.74-dev libboost-contract1.74-dev
+  libboost-coroutine1.74-dev libboost-date-time1.74-dev libboost-exception1.74-dev libboost-fiber1.74-dev libboost-filesystem1.74-dev
+  libboost-graph1.74-dev libboost-graph-parallel1.74-dev libboost-iostreams1.74-dev libboost-locale1.74-dev libboost-log1.74-dev
+  libboost-math1.74-dev libboost-mpi1.74-dev libboost-mpi-python1.74-dev libboost-numpy1.74-dev libboost-program-options1.74-dev
+  libboost-python1.74-dev libboost-random1.74-dev libboost-regex1.74-dev libboost-serialization1.74-dev libboost-stacktrace1.74-dev
+  libboost-system1.74-dev libboost-test1.74-dev libboost-thread1.74-dev libboost-timer1.74-dev libboost-type-erasure1.74-dev
+  libboost-wave1.74-dev libboost1.74-tools-dev libmpfrc++-dev libntl-dev libboost-nowide1.74-dev glibc-doc libnss-nis libnss-nisplus
+  libgd-tools libjs-jquery-ui-docs liblcms2-utils libstdc++-12-doc tcl8.6 tk8.6 libxsimd-doc fancontrol read-edid i2c-tools python-attr-doc
+  python-cycler-doc python3-genshi python-lxml-doc cm-super-minimal dvipng ffmpeg fonts-staypuft ghostscript gir1.2-gtk-3.0 inkscape
+  ipython3 librsvg2-common python3-cairocffi python3-gi python3-gi-cairo python3-gobject python3-pyqt5 python3-sip python3-tornado
+  texlive-extra-utils texlive-latex-extra python-mpmath-doc python3-gmpy2 gfortran python3-pytest python-pil-doc python-ply-doc
+  python-psutil-doc python-scipy-doc texlive-fonts-extra python-sympy-doc tix python3-tk-dbg python3.11-venv python3.11-doc binfmt-support
+
+  libjs-jquery-lazyload libjs-json fonts-mathjax-extras fonts-stix libjs-mathjax-doc
+  texlive-latex-recommended texlive-xetex texlive-luatex pandoc-citeproc texlive-latex-extra
+  context wkhtmltopdf librsvg2-bin groff ghc nodejs php python ruby r-base-core libjs-katex
+  citation-style-language-styles python-argon2-doc python-bleach-doc python-bytecode-doc
+  python-coverage-doc python-fastjsonschema-doc python-ipython-doc python-ipywidgets-doc
+  python-jinja2-doc python-jsonschema-doc python3-pip python-nbconvert-doc
+  texlive-fonts-recommended texlive-plain-generic python-notebook-doc python-pexpect-doc
+  subversion python3-pytest pydevd python-pygments-doc ttf-bitstream-vera
+  python-setuptools-doc python-terminado-doc python-tinycss2-doc python3-pycurl
+  python-tornado-doc python3-twisted
+
+
+  binutils-doc cmake-doc cmake-format elpa-cmake-mode ninja-build cpp-doc
+  gcc-12-locales cpp-12-doc dbus-user-session pinentry-gnome3 tor
+  debian-keyring g++-multilib g++-12-multilib gcc-12-doc gcc-multilib autoconf
+  automake libtool flex bison gdb gcc-doc gcc-12-multilib git-daemon-run
+  | git-daemon-sysvinit git-doc git-email git-gui gitk gitweb git-cvs
+  git-mediawiki git-svn parcimonie xloadimage scdaemon lrzip glibc-doc
+  libcurl4-doc libidn-dev libkrb5-dev libldap2-dev librtmp-dev libssh2-1-dev
+  zlib1g-dev bzr libgd-tools icu-doc postgresql-doc-15 libssl-doc
+  libstdc++-12-doc make-doc ed diffutils-doc pinentry-doc python3-braceexpand
+
+  binutils-doc cpp-doc gcc-12-locales cpp-12-doc dbus-user-session
+  pinentry-gnome3 tor debian-keyring g++-multilib g++-12-multilib gcc-12-doc
+  gcc-multilib autoconf automake libtool flex bison gdb gcc-doc
+  gcc-12-multilib parcimonie xloadimage scdaemon glibc-doc git bzr libgd-tools
+  libstdc++-12-doc make-doc ed diffutils-doc pinentry-doc
+
+sudo apt install libgdbm-compat-dev
+
+doxygen-latex doxygen-doc doxygen-gui fontforge fonts-roboto libavalon-framework-java
+  libcommons-logging-java-doc libexcalibur-logkit-java liblog4j1.2-java libcurl4-doc libidn-dev
+  libkrb5-dev librtmp-dev libssh2-1-dev openjdk-17-demo openjdk-17-source visualvm perl-tk xzdec
+  texlive-fonts-extra-doc texlive-fonts-recommended-doc texlive-latex-base-doc wp2latex
+  icc-profiles texlive-latex-extra-doc texlive-science texlive-latex-recommended-doc
+  texlive-luatex texlive-pstricks dot2tex prerex texlive-pictures-doc vprerex tipa-doc
+
+sudo apt-get install make build-essential libssl-dev zlib1g-dev \
+libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \
+libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+
+build-essential
+cmake
+ninja-build
+gfortran
+pkg-config
+python-dev
+libopenblas-dev
+liblapack-dev
+cython3
+patchelf
+libatlas-base-dev
+libffi-dev
+
+  cmake \
+  make \
+  libpq-dev \
+  libcurl4  \
+  libcurl4-openssl-dev  \
+  libssl-dev  \
+  libxml2 \
+  libxml2-dev  \
+  pkg-config \
+  ca-certificates \
+  xclip
+
+  git \
+  wget \
+  zip \
+  unzip \
+  rsync \
+  bash-completion \
+
+
+
+
+
 ## sudo bash bootstrap-salt.sh -M -N git v3005.5
 ## curl -o bootstrap-salt.sh -L https://bootstrap.saltproject.io
 
