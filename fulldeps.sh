@@ -1,3 +1,11 @@
+sudo apt-get install lshw
+sudo apt install net-tools
+apt-get install bridge-utils
+apt-get install busybox
+sudo apt install zstd
+sudo apt install debootstrap systemd-container
+lm-sensors
+
 binutils-doc blt-demo cpp-doc gcc-12-locales cpp-12-doc g++-multilib g++-12-multilib gcc-12-doc gcc-multilib make autoconf automake
   libtool flex bison gdb gcc-doc gcc-12-multilib glances-doc python3-pynvml apache2 | lighttpd | httpd libboost-doc libboost1.74-doc
   libboost-atomic1.74-dev libboost-chrono1.74-dev libboost-container1.74-dev libboost-context1.74-dev libboost-contract1.74-dev
