@@ -51,18 +51,5 @@ sudo apt install libgdbm-compat-dev -y
 sudo apt install libb2-dev -y
 
 sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libsqlite3-dev libreadline-dev libffi-dev curl libcurl-dev libbz2-dev
-sudo apt-get -yq install autotools-dev autoconf autoconf-archive pkg-config
 sudo apt install autotools-dev autoconf autoconf-archive pkg-config
 sudo apt install gdb-doc gdbserver lm-sensors -y
-sudo apt install gcc g++
-
-cd /home/vagrant
-
-wget https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz
-tar zxvf Python-3.12.2.tgz
-chmod 777 -R Python-3.12.2
-
-
-#CXX=/usr/bin/g++ ./configure --build="x86_64-pc-linux-gnu" --enable-loadable-sqlite-extensions --enable-optimizations --enable-option-checking=fatal --enable-shared --with-system-expat --with-ensurepip --with-pydebug --with-trace-refs --enable-pystats --enable-profiling
-
-#make -j "$(nproc)"
