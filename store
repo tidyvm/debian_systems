@@ -23,33 +23,4 @@ apt-get install -y --no-install-recommends \
 		uuid-dev \
 		wget \
 		xz-utils \
-		zlib1g-dev \
-	
-apt-get install --assume-yes --no-install-recommends \
-		ca-certificates \
-		dirmngr \
-		dpkg-dev \
-		gcc \
-		gnupg \
-		libbz2-dev \
-		libc6-dev \
-		libexpat1-dev \
-		libffi-dev \
-		liblzma-dev \
-		libsqlite3-dev \
-		libssl-dev \
-		make \
-		netbase \
-		uuid-dev \
-		wget \
-		xz-utils \
 		zlib1g-dev
-		
-
-sudo apt-get install lld llvm -y
-sudo apt install libgdbm-compat-dev -y
-sudo apt install libb2-dev -y
-
-sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libsqlite3-dev libreadline-dev libffi-dev curl libcurl-dev libbz2-dev
-sudo apt install autotools-dev autoconf autoconf-archive pkg-config
-sudo apt install gdb-doc gdbserver lm-sensors -y
